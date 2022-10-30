@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20DevLife&fontSize=70&&fontColor=ffffff&fontAlign=30&desc=Seol%20Jiyoon&descAlign=60&descAlignY=55" />
 <div>
 <h3>Hi there👋</h3>
 <p>
