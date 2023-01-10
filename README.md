@@ -20,7 +20,7 @@
 
 
 ### Want to know more about me?💖
-<a href="https://devlife-surge.tistory.com/](https://www.notion.so/surgedev/b37ace1e2bab4d328e1ab9bbba944c34">
+<a href="https://www.notion.so/surgedev/b37ace1e2bab4d328e1ab9bbba944c34">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 </a>
 <a href="mailto:gleeyoon95@gmail.com">
